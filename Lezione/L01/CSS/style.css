@@ -1,0 +1,14 @@
+hr{
+    border-color: red;
+    border-style: dotted;
+    color: red;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkorange;
+}
+
+h1{
+    text-align: center;
+}

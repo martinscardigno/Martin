@@ -1,0 +1,27 @@
+caption{
+    caption-side: bottom;
+}
+
+.classe1{
+    color: red;
+}
+
+table,th,td{
+    padding: 40px;
+    border: 3px black solid; 
+    border-collapse: collapse
+    
+    
+}
+
+th,td{
+    border-radius: 10px;
+}
+
+tr:nth-child(odd){
+    background-color: aquamarine;
+}
+
+
+
+
